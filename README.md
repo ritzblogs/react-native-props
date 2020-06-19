@@ -2,6 +2,8 @@
 
 ![demo](https://github.com/ritzblogs/react-native-props/blob/master/props.jpg)  
 
+Find detailed description - https://abodeofmystories.blogspot.com/2020/05/props-in-react-native.html
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/# react-native-props.git
